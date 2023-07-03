@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ATModel\\ATModel.csproj",
+      "projectUniqueName": "D:\\Projects\\Access\\AccessTimberAPI\\ATModel\\ATModel.csproj",
       "projectName": "ATModel",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ATModel\\ATModel.csproj",
+      "projectPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATModel\\ATModel.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ATModel\\obj\\",
+      "outputPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

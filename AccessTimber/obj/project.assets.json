@@ -3914,11 +3914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AccessTimber\\AccessTimber.csproj",
+      "projectUniqueName": "D:\\Projects\\Access\\AccessTimberAPI\\AccessTimber\\AccessTimber.csproj",
       "projectName": "AccessTimber",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AccessTimber\\AccessTimber.csproj",
+      "projectPath": "D:\\Projects\\Access\\AccessTimberAPI\\AccessTimber\\AccessTimber.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AccessTimber\\obj\\",
+      "outputPath": "D:\\Projects\\Access\\AccessTimberAPI\\AccessTimber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3935,11 +3935,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\ATModel\\ATModel.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\ATModel\\ATModel.csproj"
+            "D:\\Projects\\Access\\AccessTimberAPI\\ATModel\\ATModel.csproj": {
+              "projectPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATModel\\ATModel.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj"
+            "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj": {
+              "projectPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj"
             }
           }
         }

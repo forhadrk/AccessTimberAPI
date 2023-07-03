@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj": {}
+    "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj": {
+    "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj",
+        "projectUniqueName": "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj",
         "projectName": "ATServices",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ATServices\\ATServices.csproj",
+        "projectPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\ATServices.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ATServices\\obj\\",
+        "outputPath": "D:\\Projects\\Access\\AccessTimberAPI\\ATServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
