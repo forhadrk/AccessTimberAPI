@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ATServices\bin\Debug\net7.0\ATServices.deps.json
+C:\Users\User\source\repos\ATServices\bin\Debug\net7.0\ATServices.dll
+C:\Users\User\source\repos\ATServices\bin\Debug\net7.0\ATServices.pdb
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.AssemblyInfo.cs
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.dll
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\refint\ATServices.dll
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.pdb
+C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ref\ATServices.dll
