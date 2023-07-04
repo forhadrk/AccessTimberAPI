@@ -10,3 +10,15 @@ C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.dll
 C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\refint\ATServices.dll
 C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ATServices.pdb
 C:\Users\User\source\repos\ATServices\obj\Debug\net7.0\ref\ATServices.dll
+D:\Projects\Access\AccessTimberAPI\ATServices\bin\Debug\net7.0\ATServices.deps.json
+D:\Projects\Access\AccessTimberAPI\ATServices\bin\Debug\net7.0\ATServices.dll
+D:\Projects\Access\AccessTimberAPI\ATServices\bin\Debug\net7.0\ATServices.pdb
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.csproj.AssemblyReference.cache
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.AssemblyInfoInputs.cache
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.AssemblyInfo.cs
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.csproj.CoreCompileInputs.cache
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.dll
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\refint\ATServices.dll
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ATServices.pdb
+D:\Projects\Access\AccessTimberAPI\ATServices\obj\Debug\net7.0\ref\ATServices.dll

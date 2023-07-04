@@ -10,3 +10,15 @@ C:\Users\User\source\repos\ATModel\obj\Debug\net7.0\ATModel.dll
 C:\Users\User\source\repos\ATModel\obj\Debug\net7.0\refint\ATModel.dll
 C:\Users\User\source\repos\ATModel\obj\Debug\net7.0\ATModel.pdb
 C:\Users\User\source\repos\ATModel\obj\Debug\net7.0\ref\ATModel.dll
+D:\Projects\Access\AccessTimberAPI\ATModel\bin\Debug\net7.0\ATModel.deps.json
+D:\Projects\Access\AccessTimberAPI\ATModel\bin\Debug\net7.0\ATModel.dll
+D:\Projects\Access\AccessTimberAPI\ATModel\bin\Debug\net7.0\ATModel.pdb
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.csproj.AssemblyReference.cache
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.AssemblyInfoInputs.cache
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.AssemblyInfo.cs
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.csproj.CoreCompileInputs.cache
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.dll
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\refint\ATModel.dll
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ATModel.pdb
+D:\Projects\Access\AccessTimberAPI\ATModel\obj\Debug\net7.0\ref\ATModel.dll
