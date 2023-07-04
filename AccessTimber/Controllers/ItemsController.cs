@@ -8,8 +8,9 @@ using System.Data;
 
 namespace AccessTimber.Controllers
 {
-    [Route("api/items")]
+    //[Route("api/items")]
     [ApiController]
+    [Route("[controller]")]
     public class ItemsController : ControllerBase
     {
         private readonly IDapper _dapper;
